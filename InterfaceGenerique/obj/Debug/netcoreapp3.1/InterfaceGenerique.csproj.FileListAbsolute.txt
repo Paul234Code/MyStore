@@ -1,0 +1,13 @@
+C:\Users\fayel\source\repos\InterfaceGenerique\bin\Debug\netcoreapp3.1\InterfaceGenerique.exe
+C:\Users\fayel\source\repos\InterfaceGenerique\bin\Debug\netcoreapp3.1\InterfaceGenerique.deps.json
+C:\Users\fayel\source\repos\InterfaceGenerique\bin\Debug\netcoreapp3.1\InterfaceGenerique.runtimeconfig.json
+C:\Users\fayel\source\repos\InterfaceGenerique\bin\Debug\netcoreapp3.1\InterfaceGenerique.runtimeconfig.dev.json
+C:\Users\fayel\source\repos\InterfaceGenerique\bin\Debug\netcoreapp3.1\InterfaceGenerique.dll
+C:\Users\fayel\source\repos\InterfaceGenerique\bin\Debug\netcoreapp3.1\InterfaceGenerique.pdb
+C:\Users\fayel\source\repos\InterfaceGenerique\obj\Debug\netcoreapp3.1\InterfaceGenerique.csprojAssemblyReference.cache
+C:\Users\fayel\source\repos\InterfaceGenerique\obj\Debug\netcoreapp3.1\InterfaceGenerique.AssemblyInfoInputs.cache
+C:\Users\fayel\source\repos\InterfaceGenerique\obj\Debug\netcoreapp3.1\InterfaceGenerique.AssemblyInfo.cs
+C:\Users\fayel\source\repos\InterfaceGenerique\obj\Debug\netcoreapp3.1\InterfaceGenerique.csproj.CoreCompileInputs.cache
+C:\Users\fayel\source\repos\InterfaceGenerique\obj\Debug\netcoreapp3.1\InterfaceGenerique.dll
+C:\Users\fayel\source\repos\InterfaceGenerique\obj\Debug\netcoreapp3.1\InterfaceGenerique.pdb
+C:\Users\fayel\source\repos\InterfaceGenerique\obj\Debug\netcoreapp3.1\InterfaceGenerique.genruntimeconfig.cache
